@@ -6,8 +6,6 @@ This project presents an interactive Airbnb Analytics Dashboard built in Power B
 
 The objective of this project was not only to visualize data but also to apply business thinking, data storytelling, and analytical techniques to uncover meaningful insights from Airbnb data.
 
----
-
 ## Business Problem
 
 Airbnb operates across multiple geographical locations with thousands of listings, hosts, and customer reviews. Understanding market concentration, customer engagement, host credibility, pricing patterns, and seasonal trends is essential for making informed business decisions.
@@ -21,7 +19,11 @@ This dashboard helps answer questions such as:
 * Which cities receive the highest ratings?
 * How do review patterns vary across seasons?
 
----
+## Project Links
+
+📹 Video: [Add Demo Video Link Here]
+
+📄 [Project Documentation ](https://www.notion.so/Airbnb-Global-Performance-Dashboard-Power-BI-37c73496bb5680859104d18220fd42a2?source=copy_link)
 
 ## Dashboard Pages
 
@@ -35,8 +37,6 @@ Provides a high-level summary of Airbnb performance through key KPIs and listing
 * Room type distribution
 * Historical business milestones and trends
 
----
-
 ### 2. Ratings Page
 
 Focuses on market share, pricing, and customer ratings.
@@ -49,8 +49,6 @@ Focuses on market share, pricing, and customer ratings.
 * Overall City Ratings
 * Detailed Rating Analysis using Bookmarks
 
----
-
 ### 3. Customer & Trust Analysis Page
 
 Analyzes customer review behavior and host credibility.
@@ -62,7 +60,6 @@ Analyzes customer review behavior and host credibility.
 * Trust Factor Analysis
 * Host Verification Analysis
 * Seasonal Review Trends
----
 
 ## Tools & Technologies Used
 
@@ -75,8 +72,6 @@ Analyzes customer review behavior and host credibility.
 * Calculated Columns
 * Measures
 
----
-
 ## Project Learnings
 
 Through this project, I learned:
@@ -88,27 +83,3 @@ Through this project, I learned:
 * Creating calculated columns for custom analysis
 * Applying conditional formatting for better storytelling
 * Converting raw data into actionable business insights
-
----
-
-## Dashboard Preview
-
-### Overview Page
-
-(Add Screenshot Here)
-
-### Ratings Page
-
-(Add Screenshot Here)
-
-### Customer & Trust Analysis Page
-
-(Add Screenshot Here)
-
----
-
-## Project Links
-
-📹 Demo Video: [Add Demo Video Link Here]
-
-📄 [Project Documentation ](https://www.notion.so/Airbnb-Global-Performance-Dashboard-Power-BI-37c73496bb5680859104d18220fd42a2?source=copy_link)
