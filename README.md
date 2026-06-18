@@ -21,7 +21,7 @@ This dashboard helps answer questions such as:
 
 ## Project Links
 
-📹 Video: [Add Demo Video Link Here]
+📹 [Video](https://github.com/Sakshi-1807mrk/Global-Airbnb-Performance-Dashboard-Power-BI/blob/main/Airbnb%20Dashboard%20Video.mp4)
 
 📄 [Project Documentation ](https://www.notion.so/Airbnb-Global-Performance-Dashboard-Power-BI-37c73496bb5680859104d18220fd42a2?source=copy_link)
 
